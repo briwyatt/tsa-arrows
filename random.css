@@ -1,0 +1,14 @@
+body {
+  background-color: black;
+}
+
+.shown {
+  width: 510px;
+  height: 510px;
+  margin: auto;
+  display: block;
+}
+
+.hidden{
+  display: none;
+}
